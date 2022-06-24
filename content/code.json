@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n  border: #daa520 !important\n}\n\n@media (max-width: 700px)\n  .header__toggler {\n    display: none !important\n}",
+  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n  border: #daa520 !important\n}\n\nmedia (min-width: 992px)\n.d-lg-inline {\n    display: none!important;\n}",
   "html_head": "",
   "html_body": ""
 }

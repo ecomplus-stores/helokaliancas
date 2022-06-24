@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n  color: var(--primary) !important\n}",
+  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n  border: var(--primary) !important\n}",
   "html_head": "",
   "html_body": ""
 }

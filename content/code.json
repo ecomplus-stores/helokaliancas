@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n    border: 1px solid #daa520 !important\n}\n\nmedia (min-width: 1300px)\n.d-lg-inline {\n    display: none!important;\n}\n\n.header__toggler-icon {\n    color: #daa520 !important\n}",
+  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n    border: 1px solid #daa520 !important\n}\n\n@media (min-width: 1300px)\n.d-lg-inline {\n    display: none !important;\n}\n\n.header__toggler-icon {\n    color: #daa520 !important\n}",
   "html_head": "",
   "html_body": ""
 }

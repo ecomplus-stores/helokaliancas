@@ -5,11 +5,11 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "2022-06-27T14:14:36.478Z",
-          "end": "2022-06-27T14:14:36.494Z",
+          "end": "",
           "img": "/img/uploads/banner-promocional-de-aliancas-vermelho-e-branco-ousado-romantico.png"
         }
       ]

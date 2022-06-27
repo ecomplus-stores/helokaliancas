@@ -1,5 +1,5 @@
 {
-  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n    border: 1px solid #daa520 !important\n}\n\n@media(min-width: 700px) {\n  .d-lg-inline {\n    display: none!important;\n }\n}\n\n.header__toggler-icon {\n    color: #daa520 !important\n}\n\n.top-bar__countdown {\n  font-weight: bold\n}\n.footer__title {\n  color: #daa520 !important\n}\n\n.footer__links i {\n  color: #f5d2e6 !important\n}\n\n.info-bar__item .rounded-icon i.i-exchange {\n    content: url('https://github.com/ecomplus-stores/helokaliancas/blob/master/template/public/img/uploads/cadeado-novo.png');\n    width: 27px;\n}",
+  "css": ".top-bar__nav a {\n    color: #daa520 !important\n}\n.info-bar {\n  color: var(--primary) !important\n}\n.rounded-icon {\n    border: 1px solid #daa520 !important\n}\n\n@media(min-width: 700px) {\n  .d-lg-inline {\n    display: none!important;\n }\n}\n\n.header__toggler-icon {\n    color: #daa520 !important\n}\n\n.top-bar__countdown {\n  font-weight: bold\n}\n.footer__title {\n  color: #daa520 !important\n}\n\n.footer__links i {\n  color: #f5d2e6 !important\n}\n\n.info-bar__item .rounded-icon i.i-exchange {\n    content: url('/blob/master/template/public/img/uploads/cadeado-novo.png') !important;\n    width: 27px;\n}",
   "html_head": "",
   "html_body": ""
 }

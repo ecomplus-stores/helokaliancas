@@ -26,6 +26,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<p><center><h1><font color=\"#daa520\">COLEÇÕES</font></h1></center></p>"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {

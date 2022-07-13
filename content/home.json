@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "COLEÇÕES",
   "meta_description": "",
   "sections": [
     {
@@ -24,6 +24,23 @@
     {
       "type": "info-bar",
       "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/colecao-princess-4-.png"
+        },
+        {
+          "img": "/img/uploads/colecao-princess-3-.png"
+        },
+        {
+          "img": "/img/uploads/colecao-princess-2-.png"
+        },
+        {
+          "img": "/img/uploads/colecao-princess.png"
+        }
+      ]
     },
     {
       "type": "collection-shelf",

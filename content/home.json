@@ -5,14 +5,15 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/9a8ae2b7-bb3c-440a-8532-6c0dd17ad233.png",
           "mobile_img": "/img/uploads/b7c5204c-65d0-4534-bb0d-c9dd3dc2b005.png",
-          "link": "/colecao-lux"
+          "link": "/colecao-flor-de-maio",
+          "alt": "/colecao-lux"
         },
         {
           "start": "",

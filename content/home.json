@@ -33,7 +33,8 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/colecao-princess-8-.png"
+          "img": "/img/uploads/colecao-princess-8-.png",
+          "link": "/colecao-lux"
         },
         {
           "img": "/img/uploads/colecao-princess-7-.png"

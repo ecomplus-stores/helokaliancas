@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.54e441ef99d0e5c2667e4b304e753c9e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ce8f12c0a5fdd78595f0b9b2020910cd.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.eaa2190037eff215376fc2c32f955754.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.43b12b56bd58474ef99a7e52cdf2af4e.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.03b61c4fa09cb138156a3497b5773cf8.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Helok Alianças",
+  "short_name": "helokaliancas",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Fábrica de Alianças.",
+  "background_color": "#ffffff",
+  "theme_color": "#daa520"
+}

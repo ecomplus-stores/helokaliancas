@@ -34,6 +34,16 @@
     },
     {
       "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 24,
+      "page": 1,
+      "sort": "lowest_price",
+      "headless": true,
+      "collection_id": "62c486c8eb8591121676fe2b:categories:Alianças ouro 18k:/ouro",
+      "title": "Alianças Ouro 18k"
+    },
+    {
+      "type": "collection-shelf",
       "shuffle": false,
       "limit": 24,
       "page": 1,
@@ -61,14 +71,6 @@
           "link": "/colecao-princess"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "headless": true
     },
     {
       "type": "dynamic-showcase",

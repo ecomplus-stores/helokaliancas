@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Alianças Prata 950",
+  "meta_description": "Alianças Prata 950",
   "sections": [
     {
       "type": "banner-slider",
@@ -31,6 +31,15 @@
     {
       "type": "custom-html",
       "html": "<p><center><h1><font color=\"#daa520\">COLEÇÕES</font></h1></center></p>"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62c5c440eb85911216790500:categories:Alianças prata 950:/prata",
+      "sort": "lowest_price",
+      "title": "Alianças Prata 950"
     },
     {
       "type": "banners-grid",

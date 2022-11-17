@@ -29,16 +29,12 @@
       "enabled": true
     },
     {
-      "type": "custom-html",
-      "html": "<p><center><h1><font color=\"#daa520\">COLEÇÕES</font></h1></center></p>"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 24,
       "page": 1,
       "sort": "lowest_price",
-      "headless": true,
+      "headless": false,
       "collection_id": "62c486c8eb8591121676fe2b:categories:Alianças ouro 18k:/ouro",
       "title": "Alianças Ouro 18k"
     },
@@ -50,6 +46,19 @@
       "collection_id": "62c5c440eb85911216790500:categories:Alianças prata 950:/prata",
       "sort": "lowest_price",
       "title": "Alianças Prata 950"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 24,
+      "page": 1,
+      "collection_id": "62c5cb95eb859112167918db:categories:Anéis:/aneis",
+      "sort": "views",
+      "title": "Anéis"
+    },
+    {
+      "type": "custom-html",
+      "html": "<p><center><h1><font color=\"#daa520\">COLEÇÕES</font></h1></center></p>"
     },
     {
       "type": "banners-grid",

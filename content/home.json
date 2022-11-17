@@ -60,6 +60,10 @@
       "page": 1,
       "sort": "sales",
       "headless": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
